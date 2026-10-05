@@ -1,0 +1,14 @@
+{
+  "name": "studyai-backend",
+  "version": "1.0.0",
+  "description": "Backend for StudyAI",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "openai": "^6.16.0",
+    "cors": "^2.8.5"
+  }
+}
